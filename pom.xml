@@ -11,4 +11,5 @@
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>com.mycompany.egg_parte_1_inicio.Egg_Parte_1_Inicio</exec.mainClass>
     </properties>
+    <name>BASICO_INTRODUCION_JAVA_2_2_EXTRA</name>
 </project>
